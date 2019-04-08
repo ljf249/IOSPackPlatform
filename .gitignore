@@ -1,5 +1,2 @@
-# 此为注释 – 将被 Git 忽略
-
-*.rar # 忽略所有 .rar 结尾的文件
-
-upload/ # 忽略 upload/ 目录下的所有文件
+*.rar
+upload/
